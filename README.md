@@ -1,5 +1,5 @@
 |1|  Implement a Java program to find the sum of all elements in an integer array using Java 8 streams|:heavy_check_mark:|1|
-|       |     |       |       |
+|:---:|:---:|:---:|:---:|
 |2| Implement a program to filter out the even numbers from an integer array using Java 8 streams|:heavy_check_mark:|2|
 |5|  Implement a Java program to sort a list of integers in descending order using Java 8 streams|:heavy_check_mark:|3|
 |6| Implement a program to find the average of a list of floating-point numbers using Java 8 streams|:heavy_check_mark:|4|
