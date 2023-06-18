@@ -6,7 +6,7 @@
 |7|  Implement a Java program to remove duplicate elements from an integer array using Java 8 streams||5|
 |8| Implement a program to find the maximum value in a list of doubles using Java 8 streams||6|
 |10| Implement a program to find the prime numbers in a given range using Java 8 streams||7|
-|13|  Implement a Java program to check if all elements of a list are positive integers using Java 8 streams||8|
+|13|  Implement a Java program to check if all elements of a list are positive integers using Java 8 streams|:heavy_check_mark:|8|
 |14| Implement a program to convert a list of integers to a comma-separated string using Java 8 streams||9|
 |16| Implement a program to find the product of all numbers in a list of integers using Java 8 streams||10|
 |18| Implement a program to find the distinct elements in a list of integers using Java 8 streams||11|
